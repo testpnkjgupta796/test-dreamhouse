@@ -1,18 +1,9 @@
-### What does this PR do?
+### What changes are in this PR?
 
-### What issues does this PR fix or reference?
+### SASOSE reference number
 
-#<Insert GitHub Issue>
+SASOSE-XXX
 
-## The PR fulfills these requirements:
+## Test classes:
 
-[ ] Tests for the proposed changes have been added/updated.
-[ ] Code linting and formatting was performed.
-
-### Functionality Before
-
-<insert gif and/or summary>
-
-### Functionality After
-
-<insert gif and/or summary>
+Apex::[all]::Apex
