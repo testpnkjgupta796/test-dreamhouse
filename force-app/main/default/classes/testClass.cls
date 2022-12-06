@@ -4,6 +4,7 @@ public class testClass{
      //test code
      //Testing GitHub Actions Trigger
      //2nd Test GitHub Actions
+    System.debug('Trigger github actions');
      
     }
 
