@@ -1,6 +1,7 @@
 @isTest
 private class TestPropertyController {
     private final static String MOCK_PICTURE_NAME = 'MockPictureName';
+    //test full deployment
 
     public static void createProperties(Integer amount) {
         List<Property__c> properties = new List<Property__c>();
