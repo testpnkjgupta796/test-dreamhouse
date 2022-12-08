@@ -3,7 +3,7 @@
     <fullName>Price__c</fullName>
     <externalId>false</externalId>
     <label>Asking Price</label>
-    <precision>8</precision>
+    <precision>8</precision> 
     <required>false</required>
     <scale>0</scale>
     <trackFeedHistory>true</trackFeedHistory>

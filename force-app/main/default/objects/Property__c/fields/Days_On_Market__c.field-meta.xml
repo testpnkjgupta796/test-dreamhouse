@@ -3,7 +3,7 @@
     <fullName>Days_On_Market__c</fullName>
     <externalId>false</externalId>
     <formula>TODAY() - Date_Listed__c</formula>
-    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs> 
     <label>Days On Market</label>
     <precision>18</precision>
     <required>false</required>
