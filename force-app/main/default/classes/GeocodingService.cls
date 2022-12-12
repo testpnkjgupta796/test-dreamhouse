@@ -4,6 +4,7 @@ public with sharing class GeocodingService {
     //Testing GitHub Actions 
     //New test github actions workflow
     //test full deployment
+    //changes
 
     @InvocableMethod(callout=true label='Geocode address')
     public static List<Coordinates> geocodeAddresses(
